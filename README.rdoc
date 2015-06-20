@@ -1,5 +1,3 @@
 == README
 
 "Terminaste los deberes" es una aplicacion web en construccion para mantener una lista de tareas por realizar. 
-
-<tt>rake doc:app</tt>.
